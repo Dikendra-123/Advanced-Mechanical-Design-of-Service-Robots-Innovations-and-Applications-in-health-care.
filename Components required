@@ -1,0 +1,15 @@
+# Components List
+
+Below is the list of components used in this project along with their models and quantities.
+
+| Component Name               | Model                     | Quantity |
+|------------------------------|---------------------------|----------|
+| Arduino                      | Arduino Uno RV3           | 1        |
+| IR Sensor                    | LM393                     | 2        |
+| DC Gear Motor                | PG36BL36-26.9K            | 5        |
+| Auto Tracking Phone Holder   | -                         | 1        |
+| LCD Display                  | LCD1602                   | 1        |
+| Li-Po Battery                | Pro-range IFR-32650-6000  | 1        |
+| Battery Charger              | -                         | 1        |
+| Wheels                       | Omni                      | 4        |
+| Relay Driver Module          | -                         | 2        |
